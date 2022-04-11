@@ -1,0 +1,113 @@
+
+
+.student_box {
+    width: 94.5%;
+    display: inline-block;
+    margin-left: 2%;
+}
+
+.std_name {
+    margin-left: 20px;
+}
+
+.input_box {
+    width: 45%;
+    display: inline-block;
+    margin-left: 2%;
+    margin-bottom: 1.5%;
+}
+
+/* Style For ID Card */
+
+.id_card_inner {
+    height: 325px;
+    width: 230px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+p {
+    font-size: 9px;
+    text-align: center;
+    color: red;
+}
+
+.college{
+    font-size: 13.5px;
+    text-align: center;
+    color: blue;
+    margin-top: -22px;
+}
+.phone {
+    text-align: right;
+    margin-top: -7px;
+    margin-right: 4px;
+    font-size: 10.5px;
+    color: red;
+}
+
+.id_card_r {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: blue;
+    border: 2px solid black;
+    border-radius: 7px;
+    margin-left: 63px;
+    margin-right: 63px;
+    margin-top: -5px;
+}
+.photos {
+    height: 75px;
+    width: 65px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: -6px;
+}
+.logo {
+    position: absolute;
+    height: 65px;
+    width: 55px;
+    margin: auto;
+    margin-top: -6px;
+}
+.logo_inner {
+    width: 52px;
+    margin-top: -8px;
+}
+
+img{
+    max-width: 100%;
+}
+img.profile {
+    height: 71px;
+}
+.name {
+    font-size: 17px;
+    margin-top: 2px;
+    color: #a50606;
+}
+h4 {
+    font-size: 12.5px;
+    margin-top: -4px;
+    margin-left: 4px;
+    margin-bottom: 8.5px;
+}
+.mobile {
+    color: red;
+}
+.signature{
+    position: absolute;
+}
+.signature_inner {
+    width: 58px;
+    position: relative;
+    right: -159px;
+    bottom: 26px;
+}
+.principal {
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 165px;
+}
